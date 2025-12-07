@@ -1,0 +1,30 @@
+[22:10:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:10:44] [ServerMain/INFO]: Loaded 1461 recipes
+[22:10:44] [ServerMain/INFO]: Loaded 1574 advancements
+[22:10:44] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[22:10:44] [Server thread/INFO]: Loading properties
+[22:10:44] [Server thread/INFO]: Default game type: SURVIVAL
+[22:10:44] [Server thread/INFO]: Generating keypair
+[22:10:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:10:45] [Server thread/INFO]: Using epoll channel type
+[22:10:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:10:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:10:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:10:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:10:45] [Server thread/INFO]: Preparing level "world"
+[22:10:45] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:10:45] [Server thread/INFO]: Preparing spawn area: 100%
+[22:10:45] [Server thread/INFO]: Time elapsed: 15 ms
+[22:10:45] [Server thread/INFO]: Done (0.516s)! For help, type "help"
+[22:11:05] [Server thread/INFO]: Z_tek[/127.106.254.175:58011] logged in with entity id 132 at (194.24716445909507, 64.5625, -710.9502642856213)
+[22:11:05] [Server thread/INFO]: Z_tek joined the game
+[22:12:36] [Server thread/INFO]: Z_tek lost connection: Disconnected
+[22:12:36] [Server thread/INFO]: Z_tek left the game
+[22:13:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:13:38] [Server thread/INFO]: Miguel024[/127.151.35.10:37367] logged in with entity id 674 at (198.00608473968586, 64.0, -698.6523018717432)
+[22:13:38] [Server thread/INFO]: Miguel024 joined the game
+[22:36:49] [Server thread/WARN]: Miguel024 moved too quickly! 13.57037830266583,10.876639176435134,1.0209340106404348
+[22:36:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[23:02:09] [Server thread/INFO]: [Miguel024: Set own game mode to Creative Mode]
+[23:02:17] [Server thread/INFO]: [Miguel024: Set own game mode to Survival Mode]
+[23:06:46] [Server thread/INFO]: Miguel024 has made the advancement [Spooky Scary Skeleton]
